@@ -1,11 +1,17 @@
 <xml>
-<batiment>
-<centre>
-<x> 5 </x>
-<y> 2 </y>
-</centre>
-<deltaX> 8</deltaX>
-<deltaY> 8</deltaY>
-<deltaZ> 16 </deltaZ>
-</batiment>
+	<donnee>
+		<batiment>
+			<centre>
+			<x> 5 </x>
+			<y> 2 </y>
+			</centre>
+			<longueur>
+				<deltaX> 8</deltaX>
+				<deltaY> 8</deltaY>
+				<deltaZ> 16 </deltaZ>
+			</longueur>
+			<nom>Nom1</nom>
+			<type>Type1</type>
+		</batiment>
+	</donnee>
 </xml>
