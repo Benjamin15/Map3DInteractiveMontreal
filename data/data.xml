@@ -1,0 +1,11 @@
+<xml>
+<batiment>
+<centre>
+<x> 5 </x>
+<y> 2 </y>
+</centre>
+<deltaX> 8</deltaX>
+<deltaY> 8</deltaY>
+<deltaZ> 16 </deltaZ>
+</batiment>
+</xml>
