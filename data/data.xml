@@ -11,7 +11,7 @@
 				<deltaZ> 16 </deltaZ>
 			</longueur>
 			<nom>Nom1</nom>
-			<type>Type1</type>
+			<type>metro</type>
 		</batiment>
 	</donnee>
 </xml>
