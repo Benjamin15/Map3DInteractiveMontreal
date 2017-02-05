@@ -7,24 +7,24 @@ Direct3D:
     VRAM:     1992 MB
     Driver:   10.18.13.5362
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-Platform assembly: C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.281 seconds
-Platform assembly: C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\System.dll (this message is harmless)
-Platform assembly: C:\Users\benjamin\Desktop\Map 3D Interractive\Map3Dinteractive_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\benjamin\Documents\Map3DInteractiveMontreal\Map3Dinteractive_Data\Managed\System.Xml.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
@@ -37,15 +37,15 @@ The referenced script on this Behaviour (Game Object 'Text') is missing!
  
 (Filename:  Line: 1754)
 
-UnloadTime: 49.845016 ms
+UnloadTime: 3.765051 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1dc0 -> priority: 1 
-  Thread -> id: 40b8 -> priority: 1 
+  Thread -> id: 810 -> priority: 1 
+  Thread -> id: 308c -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.174852 ms
+UnloadTime: 6.300601 ms
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 527.
-Total: 0.342549 ms (FindLiveObjects: 0.034639 ms CreateObjectMapping: 0.022665 ms MarkObjects: 0.273269 ms  DeleteObjects: 0.008980 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 530.
+Total: 0.408835 ms (FindLiveObjects: 0.037205 ms CreateObjectMapping: 0.024376 ms MarkObjects: 0.326726 ms  DeleteObjects: 0.013257 ms)
 
 hey
  
@@ -1464,10 +1464,6 @@ hey
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 12 aaa
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-adresse
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
