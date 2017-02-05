@@ -1,18 +1,1281 @@
 <xml>
-	<donnee>
-		<batiment>
-			<centre>
-			<x> 5 </x>
-			<y> 2 </y>
-			</centre>
-			<longueur>
-				<deltaX> 8</deltaX>
-				<deltaY> 8</deltaY>
-				<deltaZ> 16 </deltaZ>
-			</longueur>
-			<nom>Nom1</nom>
-			<type>metro</type>
-			<addresse>abc123</addresse>>
-		</batiment>
-	</donnee>
+  <donnee>
+    
+    <batiment>
+      <x>5</x>
+      <y>2</y>
+      <deltaX>450 </deltaX>
+      <deltaY>1 </deltaY>
+      <deltaZ>150 </deltaZ>
+      <nom>Parc Jeanne-Mance</nom>
+      <type>parc</type>
+      <adresse>118 Avenue Duluth</adresse>
+    </batiment>
+    <batiment>
+      <x>-200</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4499 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>-187</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4499 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>-174</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4499 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>-161</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4499 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>-144</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4407 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>-131</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4407 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>-118</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4407 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>-101</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4399 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>-84</x>
+      <y>100</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>Nom2</nom>
+      <type>normal</type>
+      <adresse>4387 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>-67</x>
+      <y>100</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4373 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>-50</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>105 rue rachel</adresse>
+    </batiment>
+    <batiment>
+      <x>-30</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4171 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>-17</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4155 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>0</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4153 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>13</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4137 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>17</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4125 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>30</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4119 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>47</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4119 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>60</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4115 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>77</x>
+      <y>100</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>Nom2</nom>
+      <type>normal</type>
+      <adresse>4089 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>90</x>
+      <y>100</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4089 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>107</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4087 avenue de l'esplanade</adresse>
+    </batiment>
+
+    <batiment>
+      <x>120</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4087 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>137</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4079 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>150</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4079 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>163</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4059 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>180</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4059 avenue de l'esplanade</adresse>
+    </batiment>
+
+    <batiment>
+      <x>193</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4059 avenue de l'esplanade</adresse>
+    </batiment>
+
+    <batiment>
+      <x>210</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4059 avenue de l'esplanade</adresse>
+    </batiment>
+    <batiment>
+      <x>223</x>
+      <y>100</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>111 avenue Duluth O</adresse>
+    </batiment>
+
+
+    <batiment>
+      <x>-200</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom> Videotron
+      </nom>
+      <type>magasin</type>
+      <adresse>100 avenue du Mont-Royal</adresse>
+    </batiment>
+    <batiment>
+      <x>-187</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4490 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-174</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4490 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-161</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4442 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-144</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4442 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-131</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4442 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-118</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4438 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-101</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4420 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-84</x>
+      <y>115</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>Nom2</nom>
+      <type>normal</type>
+      <adresse>4420 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-67</x>
+      <y>115</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4420 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-50</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4404 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-25</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4382 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-17</x>
+      <y>110</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4382 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>0</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4366 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>13</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4352 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>17</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4352 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>30</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>101 rue Marie-Anne O</adresse>
+    </batiment>
+    <batiment>
+      <x>47</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>100 rue Marie-Anne O</adresse>
+    </batiment>
+    <batiment>
+      <x>60</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4330 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>77</x>
+      <y>115</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>Nom2</nom>
+      <type>normal</type>
+      <adresse>4322 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>90</x>
+      <y>115</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4318 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>107</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4302 rue du Saint urbain</adresse>
+    </batiment>
+
+    <batiment>
+      <x>120</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4302 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>137</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4294 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>150</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4294 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>163</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4286 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>180</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4286 rue du Saint urbain</adresse>
+    </batiment>
+
+    <batiment>
+      <x>193</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4276 rue du Saint urbain</adresse>
+    </batiment>
+
+    <batiment>
+      <x>210</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4274 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>223</x>
+      <y>115</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>coiffeur</type>
+      <adresse>105 rue Rachel 0</adresse>
+    </batiment>
+
+
+    
+    
+    <batiment>
+      <x>-200</x>
+      <y>148</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>25 </deltaZ>
+      <nom>
+        provigo
+      </nom>
+      <type>magasin</type>
+      <adresse>50 avenue du Mont-Royal</adresse>
+    </batiment>
+    <batiment>
+      <x>-187</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4455 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-174</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4445 rue du Saint urbain</adresse>
+    </batiment>
+  
+    <batiment>
+      <x>-131</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4443 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-118</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4433 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-101</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4425 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-84</x>
+      <y>140</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>Nom2</nom>
+      <type>normal</type>
+      <adresse>4425 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-67</x>
+      <y>140</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4423 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-50</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4421 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-30</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4413 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>-17</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4401 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>0</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4397 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>13</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4387 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>17</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4381 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>30</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom> Gite romain et B et B
+      </nom>
+      <type>hotel</type>
+      <adresse>4351 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>47</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4347 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>60</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4341 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>77</x>
+      <y>140</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>Nom2</nom>
+      <type>normal</type>
+      <adresse>4335 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>90</x>
+      <y>140</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4331 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>107</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4323 rue du Saint urbain</adresse>
+    </batiment>
+
+    <batiment>
+      <x>120</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4315 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>137</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4291 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>150</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4283 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>163</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>Le P'tit Atelier</nom>
+      <type>restaurant</type>
+      <adresse>93 rue Rachel O</adresse>
+    </batiment>
+    <batiment>
+      <x>180</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4135 rue du Saint urbain</adresse>
+    </batiment>
+
+    <batiment>
+      <x>193</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4133 rue du Saint urbain</adresse>
+    </batiment>
+
+    <batiment>
+      <x>210</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4125 rue du Saint urbain</adresse>
+    </batiment>
+    <batiment>
+      <x>223</x>
+      <y>140</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>83 avenue Duluth O</adresse>
+    </batiment>
+    
+       
+    <batiment>
+      <x>-187</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse> 4485-4455 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>-174</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>magasin</type>
+      <adresse>4455 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>-161</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4443 rue Clark </adresse>
+    </batiment>
+    <batiment>
+      <x>-144</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4429 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>-131</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4423 rueClark </adresse>
+    </batiment>
+    <batiment>
+      <x>-118</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4415 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>-101</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>magasin</type>
+      <adresse>51 rue Marie-Anne O</adresse>
+    </batiment>
+    <batiment>
+      <x>-84</x>
+      <y>153</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4348 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>-67</x>
+      <y>153</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4336 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>-50</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4326 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>-30</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4330 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>-17</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>magasin</type>
+      <adresse>4322 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>0</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4314 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>13</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4302 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>17</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4292 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>30</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4280 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>47</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4278 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>60</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4272 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>77</x>
+      <y>153</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4238 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>90</x>
+      <y>153</y>
+      <deltaX>25 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>
+      </nom>
+      <type>normal</type>
+      <adresse>4224-4238 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>107</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4220 rue Clark</adresse>
+    </batiment>
+
+    <batiment>
+      <x>120</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>TT Tacos et Tortas</nom>
+      <type>restaurant</type>
+      <adresse>4200 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>137</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>51 rue Rachel O</adresse>
+    </batiment>
+    <batiment>
+      <x>150</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>eglise</type>
+      <adresse>4180 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>163</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom>Foyer Portugais Saint Cruz</nom>
+      <type>restaurant</type>
+      <adresse>4160 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>180</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4146 rue Clark</adresse>
+    </batiment>
+
+    <batiment>
+      <x>193</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4144 rue Clark</adresse>
+    </batiment>
+
+    <batiment>
+      <x>210</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>4138 rue Clark</adresse>
+    </batiment>
+    <batiment>
+      <x>223</x>
+      <y>153</y>
+      <deltaX>12 </deltaX>
+      <deltaY>8 </deltaY>
+      <deltaZ>10 </deltaZ>
+      <nom></nom>
+      <type>normal</type>
+      <adresse>53 avenue Duluth O</adresse>
+    </batiment>
+    
+    
+    
+    
+    
+  </donnee>
 </xml>

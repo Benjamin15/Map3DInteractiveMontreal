@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class Batiment {
-    public enum Type { normal, metro, hotel, magasin, ecole };
+    public enum Type { normal, metro, hotel, magasin, ecole, parc, passagePieton, restaurant, coiffeur, eglise };
     private Coordonnee coordonnee; // Contient les longues en x, y ,z
     private Coordonnee centre; // contient le point de centre
     private string nom;
@@ -23,7 +23,7 @@ public class Batiment {
         adresse = "";
         type = Type.normal;
     }
-    public Batiment(int x, int y, int z)
+    public Batiment(float x, float y, float z)
     {
         coordonnee = new Coordonnee(x, y, z);
         centre = new Coordonnee(0, 0, 0);
@@ -31,7 +31,7 @@ public class Batiment {
         adresse = "";
         type = Type.normal;
     }
-    public Batiment (int longueurX, int largeurY, int hauteurZ, int centreX, int centreY)
+    public Batiment (float longueurX, float largeurY, float hauteurZ, float centreX, float centreY)
     {
         coordonnee = new Coordonnee(longueurX, hauteurZ, largeurY); // car unity inverse Y et Z
         centre = new Coordonnee(centreX, 0, centreY); // centre en 2D
@@ -49,11 +49,20 @@ public class Batiment {
     {
         return centre;
     }
+
+    public Vector3 GetVectorCenter()
+    {
+        return centre.coord;
+    }
+    public Vector3 GetVectorCoord()
+    {
+        return coordonnee.coord;
+    }
     public void setCentre(Coordonnee centre)
     {
         this.centre = centre;
     }
-    public void setCentre(int x, int y)
+    public void setCentre(float x, float y)
     {
         centre = new Coordonnee(x, 0, y);
     }
@@ -69,7 +78,7 @@ public class Batiment {
         return this.coordonnee;
     }
 
-    public void setCoordonnee(int x, int y, int z)
+    public void setCoordonnee(float x, float y, float z)
     {
         coordonnee = new Coordonnee(x, y, z);
     }
